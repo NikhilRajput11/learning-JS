@@ -3,7 +3,7 @@ Upon refreshing the page, two dice appear, each displaying a random number betwe
 
 _**Learning Objectives**_:
 
-**DOM Manipulation Practice**: The project offers hands-on experience in manipulating the DOM, a crucial skill for web development.
+**DOM Manipulation**: The project offers hands-on experience in manipulating the DOM, a crucial skill for web development.
 
 **Random Number Generation**: By incorporating JavaScript to generate random numbers, users gain insights into how to introduce variability into web applications.
 
